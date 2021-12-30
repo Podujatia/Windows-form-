@@ -5,7 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-
+using System.IO;
 namespace Openlab_Projekt_2
 {
     public partial class Form2 : Form
