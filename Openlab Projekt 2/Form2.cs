@@ -14,6 +14,7 @@ namespace Openlab_Projekt_2
         {
             InitializeComponent();
             label1.Text = mesto+ typ + den1 + mesiac1 + rok1 +den2 + mesiac2 +rok2;
+
         }
 
         
